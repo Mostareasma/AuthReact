@@ -1,0 +1,19 @@
+.text-xsm{
+    font-size: x-small;
+
+}
+
+.text-sm{
+    font-size: small;
+}
+
+.authForm{
+    max-width: 500px;
+}
+
+.h-5{
+    height: 25px;
+}
+.w-5{
+    width: 25px;
+}
